@@ -1,0 +1,9 @@
+{
+  "name": "moneymate",
+  "version": "1.0.0",
+  "description": "MoneyMate - income and expense tracker with a zero-dependency Node backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
